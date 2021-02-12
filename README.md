@@ -7,4 +7,12 @@
  
  This is mainly made with react js .
  
- In future i will try to complete it with completed backend
+ In future i will try to complete it with Full backend Functionality.
+ 
+ 
+ 
+ 
+ 
+ Made by SHIVANSH SONI 
+ 
+ Contact me --> s.shivansh94550@gmail.com
